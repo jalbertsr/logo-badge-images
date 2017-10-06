@@ -140,6 +140,14 @@ Example:
 [![Monogoose](https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png)](http://mongoosejs.com/)
 ```
 
+###### Cassandra 
+
+[![Casandra](https://i.imgur.com/Gw68kZ4.png)](http://cassandra.apache.org/)
+
+```
+[![Casandra](https://i.imgur.com/Gw68kZ4.png)](http://cassandra.apache.org/)
+```
+
 ###### Jasmine
 
 [![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/)
@@ -189,13 +197,15 @@ Example:
 
 ###### Docker
 
-[![Docker]()](https://www.docker.com/)
+[![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
 
 ```
-[![Docker]()](https://www.docker.com/)
+[![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
 ```
 
 ###### C
+
+[![C](https://i.imgur.com/zINUxVf.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ###### C++
 

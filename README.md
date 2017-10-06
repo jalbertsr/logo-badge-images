@@ -164,10 +164,10 @@ Example:
 
 ###### Browserify
 
-[![browserify]()](http://browserify.org/)
+[![browserify](https://i.imgur.com/lPqMFjM.png)](http://browserify.org/)
 
 ```
-[![browserify]()](http://browserify.org/)
+[![browserify](https://i.imgur.com/lPqMFjM.png)](http://browserify.org/)
 ```
 
 ###### Webpack

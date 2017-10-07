@@ -243,7 +243,11 @@ Example:
 ```
 ###### .NET
 
-[![.NET](https://i.imgur.com/Y8wQDCG.png)](https://www.microsoft.com/net/)
+[![.NET](https://i.imgur.com/VJzHOHu.png)](https://www.microsoft.com/net/)
+
+```
+[![.NET](https://i.imgur.com/VJzHOHu.png)](https://www.microsoft.com/net/)
+```
 
 #### Skylab
 [![Skylab](https://github.com/FransLopez/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com//)

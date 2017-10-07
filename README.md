@@ -148,18 +148,26 @@ Example:
 [![Casandra](https://i.imgur.com/Gw68kZ4.png)](http://cassandra.apache.org/)
 ```
 
-###### Jasmine
-
-[![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/)
-
-    [![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/) 
-
 ###### Firebase
 
 [![firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png)](https://firebase.google.com/)
 
 ```
 [![firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png)](https://firebase.google.com/)
+```
+
+###### Jasmine
+
+[![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/)
+
+    [![jasmine](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png)](https://jasmine.github.io/) 
+
+###### Chai
+
+[![chai](https://i.imgur.com/1AQWA4j.png)](http://chaijs.com/)
+
+```
+[![chai](https://i.imgur.com/1AQWA4j.png)](http://chaijs.com/)
 ```
 
 ###### Socket.io 
@@ -186,6 +194,21 @@ Example:
 [![webpack](https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/babel.png)](https://webpack.github.io/) 
 ```
 
+###### Cordova
+
+[![cordova](https://i.imgur.com/cnSiWgv.png)](https://cordova.apache.org/)
+
+```
+[![cordova](https://i.imgur.com/cnSiWgv.png)](https://cordova.apache.org/)
+```
+
+###### Electron 
+
+[![Electron](https://i.imgur.com/Y8wQDCG.png)](https://electron.atom.io/)
+
+```
+[![Electron](https://i.imgur.com/Y8wQDCG.png)](https://electron.atom.io/)
+```
 
 ###### Jenkins 
 
@@ -218,6 +241,9 @@ Example:
 ```
 [![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/)
 ```
+###### .NET
+
+[![.NET](https://i.imgur.com/Y8wQDCG.png)](https://www.microsoft.com/net/)
 
 #### Skylab
 [![Skylab](https://github.com/FransLopez/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com//)

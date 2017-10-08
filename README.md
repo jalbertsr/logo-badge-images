@@ -100,6 +100,14 @@ Example:
 
     [![React](https://github.com/FransLopez/logo-images/blob/master/logos/react.png)](https://facebook.github.io/react/)
 
+###### Vue
+
+[![Vue](img/rsz_vue.png)](https://vuejs.org)
+
+```
+[![Vue](https://vuejs.org/images/logo.png)](https://vuejs.org)
+```
+
 ###### Backbone
 
 [![Backbone](https://github.com/Iggy-Codes/logo-images/blob/master/logos/backbone.png)](http://backbonejs.org/)

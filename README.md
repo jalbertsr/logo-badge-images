@@ -164,7 +164,7 @@ Example:
 
 ###### Chai
 
-[![chai](https://i.imgur.com/1AQWA4j.png)](http://chaijs.com/)
+[![chai](img/rsz_chai.png)](http://chaijs.com/)
 
 ```
 [![chai](https://i.imgur.com/1AQWA4j.png)](http://chaijs.com/)

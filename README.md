@@ -167,7 +167,7 @@ Example:
 [![chai](img/rsz_chai.png)](http://chaijs.com/)
 
 ```
-[![chai](https://i.imgur.com/1AQWA4j.png)](http://chaijs.com/)
+[![chai](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_chai.png?raw=true)](http://chaijs.com/)
 ```
 
 ###### Socket.io 
@@ -196,7 +196,7 @@ Example:
 
 ###### Cordova
 
-[![cordova](https://i.imgur.com/cnSiWgv.png)](https://cordova.apache.org/)
+[![cordova](img/rsz_cordova.png)](https://cordova.apache.org/)
 
 ```
 [![cordova](https://i.imgur.com/cnSiWgv.png)](https://cordova.apache.org/)
@@ -204,7 +204,7 @@ Example:
 
 ###### Electron 
 
-[![Electron](https://i.imgur.com/Y8wQDCG.png)](https://electron.atom.io/)
+[![Electron](img/rsz_electron.png)](https://electron.atom.io/)
 
 ```
 [![Electron](https://i.imgur.com/Y8wQDCG.png)](https://electron.atom.io/)
@@ -243,7 +243,7 @@ Example:
 ```
 ###### .NET
 
-[![.NET](https://i.imgur.com/VJzHOHu.png)](https://www.microsoft.com/net/)
+[![.NET](img/rsz_dotnet.png)](https://www.microsoft.com/net/)
 
 ```
 [![.NET](https://i.imgur.com/VJzHOHu.png)](https://www.microsoft.com/net/)

@@ -199,7 +199,7 @@ Example:
 [![cordova](img/rsz_cordova.png)](https://cordova.apache.org/)
 
 ```
-[![cordova](https://i.imgur.com/cnSiWgv.png)](https://cordova.apache.org/)
+[![cordova](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cordova.png?raw=true)](https://cordova.apache.org/)
 ```
 
 ###### Electron 
@@ -207,7 +207,7 @@ Example:
 [![Electron](img/rsz_electron.png)](https://electron.atom.io/)
 
 ```
-[![Electron](https://i.imgur.com/Y8wQDCG.png)](https://electron.atom.io/)
+[![Electron](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_electron.png?raw=true)](https://electron.atom.io/)
 ```
 
 ###### Jenkins 
@@ -246,7 +246,7 @@ Example:
 [![.NET](img/rsz_dotnet.png)](https://www.microsoft.com/net/)
 
 ```
-[![.NET](https://i.imgur.com/VJzHOHu.png)](https://www.microsoft.com/net/)
+[![.NET](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_dotnet.png?raw=true)](https://www.microsoft.com/net/)
 ```
 
 #### Skylab

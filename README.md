@@ -105,7 +105,7 @@ Example:
 [![Vue](img/rsz_vue.png)](https://vuejs.org)
 
 ```
-[![Vue](https://vuejs.org/images/logo.png)](https://vuejs.org)
+[![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
 ```
 
 ###### Backbone

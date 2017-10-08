@@ -212,10 +212,10 @@ Example:
 
 ###### Webpack
 
-[![webpack](https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/babel.png)](https://webpack.github.io/) 
+[![webpack](https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/webpack.png)](https://webpack.github.io/) 
 
 ```
-[![webpack](https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/babel.png)](https://webpack.github.io/) 
+[![webpack](https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/webpack.png)](https://webpack.github.io/) 
 ```
 
 ###### Cordova

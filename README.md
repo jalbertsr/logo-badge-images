@@ -183,7 +183,7 @@ Example:
 [![Gulp](/img/rsz_gulp.png)](https://gulpjs.com/)
 
 ```
-[![Gulp](/img/rsz_gulp.png)](https://gulpjs.com/)
+[![Gulp](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_gulp.png?raw=true)](https://gulpjs.com/)
 ```
 
 ###### Grunt 
@@ -191,7 +191,7 @@ Example:
 [![Grunt](/img/rsz_grunt.png)](https://gruntjs.com/)
 
 ```
-[![Grunt](/img/rsz_grunt.png)](https://gruntjs.com/)
+[![Grunt](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_grunt.png?raw=true)](https://gruntjs.com/)
 ```
 
 ###### Browserify

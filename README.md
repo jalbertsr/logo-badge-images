@@ -148,6 +148,14 @@ Example:
 [![Monogoose](https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png)](http://mongoosejs.com/)
 ```
 
+###### PostgreSQL 
+
+[![postgresSQL](img/rsz_postgresql.png)](https://www.postgresql.org/)
+
+```
+[![postgresSQL](img/rsz_postgresql.png)](https://www.postgresql.org/)
+```
+
 ###### Cassandra 
 
 [![Casandra](https://i.imgur.com/Gw68kZ4.png)](http://cassandra.apache.org/)

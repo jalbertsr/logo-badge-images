@@ -153,7 +153,7 @@ Example:
 [![postgresSQL](img/rsz_postgresql.png)](https://www.postgresql.org/)
 
 ```
-[![postgresSQL](img/rsz_postgresql.png)](https://www.postgresql.org/)
+[![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
 ```
 
 ###### Cassandra 

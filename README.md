@@ -63,10 +63,10 @@ Example:
 
 ###### Ant Design 
 
-[![Ant-Design](https://ant.design/)](/img/ant-design.png)
+[![Ant-Design](https://ant.design/)](https://github.com/jalbertsr/logo-badge-images/blob/master/img/ant-design.png?raw=true)
 
 ```
-[![Ant-Design](https://ant.design/)](/img/ant-design.png)
+[![Ant-Design](https://ant.design/)](https://github.com/jalbertsr/logo-badge-images/blob/master/img/ant-design.png?raw=true)
 ```
 ###### MaterializeCSS
 

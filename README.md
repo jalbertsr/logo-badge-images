@@ -60,9 +60,17 @@ Example:
 
     [![Bootstrap](https://github.com/FransLopez/logo-images/blob/master/logos/bootstrap.png)](http://getbootstrap.com/)  
 
+
+###### Ant Design 
+
+[![Ant-Design](https://ant.design/)](/img/ant-design.png)
+
+```
+[![Ant-Design](https://ant.design/)](/img/ant-design.png)
+```
 ###### MaterializeCSS
 
-![Materializecss](https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_reasonably_small.png)
+[![Materializecss](http://materializecss.com/)](https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_reasonably_small.png)
 
 ```
 [![Materializecss](http://materializecss.com/)](https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_reasonably_small.png)

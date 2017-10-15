@@ -63,17 +63,17 @@ Example:
 
 ###### Ant Design 
 
-[![Ant-Design](https://ant.design/)](https://github.com/jalbertsr/logo-badge-images/blob/master/img/ant-design.png?raw=true)
+[![Ant-Design](https://github.com/jalbertsr/logo-badge-images/blob/master/img/ant-design.png?raw=true)](https://ant.design/)
 
 ```
-[![Ant-Design](https://ant.design/)](https://github.com/jalbertsr/logo-badge-images/blob/master/img/ant-design.png?raw=true)
+[![Ant-Design](https://github.com/jalbertsr/logo-badge-images/blob/master/img/ant-design.png?raw=true)](https://ant.design/)
 ```
 ###### MaterializeCSS
 
-[![Materializecss](http://materializecss.com/)](https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_reasonably_small.png)
+[![Materializecss](https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_reasonably_small.png)](http://materializecss.com/)
 
 ```
-[![Materializecss](http://materializecss.com/)](https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_reasonably_small.png)
+[![Materializecss](https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_reasonably_small.png)](http://materializecss.com/)
 ```
 
 ###### Bower

@@ -124,10 +124,10 @@ Example:
 
 ###### Ruby 
 
-[![Ruby](img/rsz_rubby.png)](https://www.ruby-lang.org/en/)
+[![Ruby](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ruby.png?raw=true)](https://www.ruby-lang.org/en/)
 
 ```
-[![Ruby](img/rsz_rubby.png)](https://www.ruby-lang.org/en/)
+[![Ruby](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ruby.png?raw=true)](https://www.ruby-lang.org/en/)
 ```
 
 ###### Node.js

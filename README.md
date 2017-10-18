@@ -122,6 +122,14 @@ Example:
 
     [![Backbone](https://github.com/Iggy-Codes/logo-images/blob/master/logos/backbone.png)](http://backbonejs.org/) 
 
+###### Ruby 
+
+[![Ruby](img/rsz_rubby.png)](https://www.ruby-lang.org/en/)
+
+```
+[![Ruby](img/rsz_rubby.png)](https://www.ruby-lang.org/en/)
+```
+
 ###### Node.js
 
 [![NodeJS](https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png)](https://nodejs.org/)

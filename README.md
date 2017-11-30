@@ -98,6 +98,14 @@ Example:
 [![npm](https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png)](https://www.npmjs.com/)
 ```
 
+##### Yarn
+
+[![Yarn](https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png)](https://yarnpkg.com)
+
+```
+[![Yarn](https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png)](https://yarnpkg.com)
+```
+
 ###### SASS 
 
 [![SASS](https://github.com/FransLopez/logo-images/blob/master/logos/sass.png)](http://sass-lang.com/)
@@ -115,6 +123,14 @@ Example:
 [![React](https://github.com/FransLopez/logo-images/blob/master/logos/react.png)](https://facebook.github.io/react/)
 
     [![React](https://github.com/FransLopez/logo-images/blob/master/logos/react.png)](https://facebook.github.io/react/)
+
+##### Redux 
+
+[![Redux](https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png)](http://redux.js.org)
+
+```
+[![Redux](https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png)](http://redux.js.org)
+```
 
 ###### Vue
 
@@ -210,12 +226,28 @@ Example:
 [![chai](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_chai.png?raw=true)](http://chaijs.com/)
 ```
 
+##### Jest 
+
+[![Jest](https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png)](https://facebook.github.io/jest/)  
+
+````
+[![Jest](https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png)](https://facebook.github.io/jest/)  
+````
+
 ###### Socket.io 
 
 [![Socket.io](https://socket.io/assets/img/logo.svg)](https://socket.io/)
 
 ```
 [![Socket.io](https://socket.io/assets/img/logo.svg)](https://socket.io/)
+```
+
+###### Passport
+
+[![Passport](https://github.com/MarioTerron/logo-images/blob/master/logos/passport.png)](http://www.passportjs.org)    
+
+```
+[![Passport](https://github.com/MarioTerron/logo-images/blob/master/logos/passport.png)](http://www.passportjs.org)    
 ```
 
 ###### Gulp

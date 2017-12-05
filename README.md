@@ -306,6 +306,14 @@ Example:
 [![Jenkins](http://jenkins-ci.org/sites/default/files/jenkins_logo.png)](https://jenkins.io/)
 ```
 
+###### Heroku 
+
+[![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)
+
+```
+[![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)
+```
+
 ###### Docker
 
 [![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)

@@ -314,6 +314,14 @@ Example:
 [![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)
 ```
 
+###### Surge
+
+[![Surge](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_surge.png?raw=true)](http://surge.sh/)
+
+```
+[![Surge](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_surge.png?raw=true)](http://surge.sh/)
+```
+
 ###### Docker
 
 [![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)

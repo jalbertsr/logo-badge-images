@@ -168,6 +168,14 @@ Example:
 [![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
 ```
 
+###### Relay
+
+[![Relay](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_relay.png?raw=true)](https://facebook.github.io/relay/)
+
+```
+[![Relay](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_relay.png?raw=true)](https://facebook.github.io/relay/)
+```
+
 ###### PUG 
 
 [![Pug](https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png)](http://expressjs.com/)

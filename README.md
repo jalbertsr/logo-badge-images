@@ -168,6 +168,14 @@ Example:
 [![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
 ```
 
+###### Graphql
+
+[![GraphQL](https://github.com/MarioTerron/logo-images/blob/master/logos/graphql.png)](http://graphql.org/)
+
+```
+[![GraphQL](https://github.com/MarioTerron/logo-images/blob/master/logos/graphql.png)](http://graphql.org/)
+```
+
 ###### Relay
 
 [![Relay](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_relay.png?raw=true)](https://facebook.github.io/relay/)

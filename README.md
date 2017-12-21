@@ -178,10 +178,10 @@ Example:
 
 ###### Relay
 
-[![Relay](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_relay.png?raw=true)](https://facebook.github.io/relay/)
+[![Relay](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rsz_relay.png?raw=true)](https://facebook.github.io/relay/)
 
 ```
-[![Relay](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_relay.png?raw=true)](https://facebook.github.io/relay/)
+[![Relay](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rsz_relay.png?raw=true)](https://facebook.github.io/relay/)
 ```
 
 ###### PUG 

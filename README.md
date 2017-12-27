@@ -184,6 +184,14 @@ Example:
 [![Relay](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rsz_relay.png?raw=true)](https://facebook.github.io/relay/)
 ```
 
+###### Apollo
+
+[![Apollo](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apollostack.png?raw=true)](https://www.apollographql.com/)
+
+```
+[![Apollo](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apollostack.png?raw=true)](https://www.apollographql.com/)
+``` 
+
 ###### PUG 
 
 [![Pug](https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png)](http://expressjs.com/)

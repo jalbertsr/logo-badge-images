@@ -192,6 +192,14 @@ Example:
 [![Apollo](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apollostack.png?raw=true)](https://www.apollographql.com/)
 ``` 
 
+###### Next.js
+
+[![Next](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true)](https://zeit.co/)
+
+```
+[![Next](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true)](https://zeit.co/)
+```
+
 ###### PUG 
 
 [![Pug](https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png)](http://expressjs.com/)

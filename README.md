@@ -384,6 +384,13 @@ Example:
 ```
 [![.NET](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_dotnet.png?raw=true)](https://www.microsoft.com/net/)
 ```
+###### Lodash
+
+[![Lodash](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_lodash.png?raw=true)](https://lodash.com/)
+
+```
+[![Lodash](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_lodash.png?raw=true)](https://lodash.com/)
+```
 
 #### Skylab
 [![Skylab](https://github.com/FransLopez/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com//)

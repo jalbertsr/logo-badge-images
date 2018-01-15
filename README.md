@@ -377,6 +377,15 @@ Example:
 ```
 [![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/)
 ```
+
+###### Python
+
+[![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
+
+```
+[![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
+```
+
 ###### .NET
 
 [![.NET](img/rsz_dotnet.png)](https://www.microsoft.com/net/)

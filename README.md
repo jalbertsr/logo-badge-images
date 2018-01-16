@@ -393,6 +393,14 @@ Example:
 ```
 [![.NET](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_dotnet.png?raw=true)](https://www.microsoft.com/net/)
 ```
+###### Swift 
+
+[![Swift](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_swift.png?raw=true)](https://developer.apple.com/swift/)
+
+```
+[![Swift](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_swift.png?raw=true)](https://developer.apple.com/swift/)
+```
+
 ###### Lodash
 
 [![Lodash](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_lodash.png?raw=true)](https://lodash.com/)

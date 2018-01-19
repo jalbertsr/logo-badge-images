@@ -266,6 +266,14 @@ Example:
 [![Jest](https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png)](https://facebook.github.io/jest/)  
 ````
 
+###### Cypress.io
+
+[![Cypress](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true)](https://www.cypress.io/)
+
+```
+[![Cypress](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true)](https://www.cypress.io/)
+```
+
 ###### Socket.io 
 
 [![Socket.io](https://socket.io/assets/img/logo.svg)](https://socket.io/)

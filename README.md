@@ -346,6 +346,14 @@ Example:
 [![Jenkins](http://jenkins-ci.org/sites/default/files/jenkins_logo.png)](https://jenkins.io/)
 ```
 
+###### Apache
+
+[![Apache](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true)](https://httpd.apache.org/)
+
+```
+[![Apache](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true)](https://httpd.apache.org/)
+```
+
 ###### Heroku 
 
 [![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)

@@ -162,6 +162,14 @@ Example:
 [![Elixir](https://github.com/jalbertsr/logo-badge-images/blob/master/img/Official_Elixir_logo.png?raw=true)](https://elixir-lang.org/)
 ```
 
+###### Scala
+
+[![Scala](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_scala.png?raw=true)](http://www.scala-lang.org/)
+
+```
+[![Scala](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_scala.png?raw=true)](http://www.scala-lang.org/)
+``` 
+
 ###### Node.js
 
 [![NodeJS](https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png)](https://nodejs.org/)

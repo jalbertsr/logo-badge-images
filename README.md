@@ -184,6 +184,14 @@ Example:
 [![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
 ```
 
+###### Phoenix 
+
+[![Phoenix](https://github.com/jalbertsr/logo-badge-images/blob/master/img/phoenix.png?raw=true)](http://phoenixframework.org/)
+
+```
+[![Phoenix](https://github.com/jalbertsr/logo-badge-images/blob/master/img/phoenix.png?raw=true)](http://phoenixframework.org/)
+``` 
+
 ###### Graphql
 
 [![GraphQL](https://github.com/MarioTerron/logo-images/blob/master/logos/graphql.png)](http://graphql.org/)

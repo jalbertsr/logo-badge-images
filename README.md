@@ -140,6 +140,14 @@ Example:
 [![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
 ```
 
+###### Elm
+
+[![Elm](https://github.com/jalbertsr/logo-badge-images/blob/master/img/elm%20(1).png?raw=true)](http://elm-lang.org/)
+
+```
+[![Elm](https://github.com/jalbertsr/logo-badge-images/blob/master/img/elm%20(1).png?raw=true)](http://elm-lang.org/)
+```
+
 ###### Backbone
 
 [![Backbone](https://github.com/Iggy-Codes/logo-images/blob/master/logos/backbone.png)](http://backbonejs.org/)

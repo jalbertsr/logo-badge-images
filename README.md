@@ -183,7 +183,7 @@ Example:
 [![Rust](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rust.png?raw=true)](https://www.rust-lang.org)
 
 ```
-https://www.rust-lang.org 
+[![Rust](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rust.png?raw=true)](https://www.rust-lang.org)
 ```
 
 ###### Scala

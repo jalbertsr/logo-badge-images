@@ -410,6 +410,14 @@ Example:
 [![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)
 ```
 
+###### AWS 
+
+[![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true)](https://aws.amazon.com/es/)
+
+```
+[![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true)](https://aws.amazon.com/es/)
+```
+
 ###### Surge
 
 [![Surge](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_surge.png?raw=true)](http://surge.sh/)

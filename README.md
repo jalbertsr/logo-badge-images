@@ -418,6 +418,14 @@ Example:
 [![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true)](https://aws.amazon.com/es/)
 ```
 
+###### Digital Ocean 
+
+[![Digital Ocean](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_digital-ocean.png?raw=true)](https://www.digitalocean.com/)
+
+```
+[![Digital Ocean](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_digital-ocean.png?raw=true)](https://www.digitalocean.com/)
+```
+
 ###### Surge
 
 [![Surge](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_surge.png?raw=true)](http://surge.sh/)

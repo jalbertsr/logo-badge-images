@@ -466,6 +466,14 @@ Example:
 [![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
 ```
 
+###### Flask 
+
+[![Flask](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true)](http://flask.pocoo.org/)
+
+```
+[![Flask](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true)](http://flask.pocoo.org/)
+```
+
 ###### .NET
 
 [![.NET](img/rsz_dotnet.png)](https://www.microsoft.com/net/)

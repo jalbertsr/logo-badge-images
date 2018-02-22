@@ -496,6 +496,13 @@ Example:
 ```
 [![Lodash](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_lodash.png?raw=true)](https://lodash.com/)
 ```
+###### Ionic 
+
+[![Ionic](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ionic.png?raw=true)](https://ionicframework.com/)
+
+```
+[![Ionic](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ionic.png?raw=true)](https://ionicframework.com/)
+```
 
 #### Skylab
 [![Skylab](https://github.com/FransLopez/logo-images/blob/master/logos/skylab-128.png)](http://www.skylabcoders.com//)

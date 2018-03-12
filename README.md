@@ -2,7 +2,7 @@
 
 #### How to use the different logos in readme files
 
-Just copy the text below the logo image, and paste it into the markdown file.
+Just copy the text below the logo image, and paste it into the markdown .
 
 Example: 
 

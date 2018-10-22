@@ -62,6 +62,14 @@ Example:
 [![flow](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_2flow.png?raw=true)](https://flow.org/) 
 ```
 
+###### TypeScript
+
+<img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="TypeScript" width="150" height="150" />
+
+```
+[![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg)](https://www.typescriptlang.org/)
+```
+
 ###### Boostrap
 
 [![Bootstrap](https://github.com/FransLopez/logo-images/blob/master/logos/bootstrap.png)](http://getbootstrap.com/)

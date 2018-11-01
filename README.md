@@ -442,6 +442,13 @@ Example:
 [![Digital Ocean](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_digital-ocean.png?raw=true)](https://www.digitalocean.com/)
 ```
 
+###### Azure
+<img src="https://alligatortek.com/wp-content/uploads/2017/09/image115.png" alt="TypeScript" width="150" height="150" />
+
+```
+[![Azure](https://alligatortek.com/wp-content/uploads/2017/09/image115.png)](https://azure.microsoft.com/es-es/)
+```
+
 ###### Surge
 
 [![Surge](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_surge.png?raw=true)](http://surge.sh/)

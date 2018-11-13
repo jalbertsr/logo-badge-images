@@ -418,6 +418,14 @@ Example:
 [![Apache](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true)](https://httpd.apache.org/)
 ```
 
+###### Kafka Streams 
+[![Kafka](https://zdnet2.cbsistatic.com/hub/i/r/2018/07/13/93218cd5-cfd9-4b10-bd28-1cc71a7275bc/resize/370xauto/996ca4ee0ff595281053298f3fe74ccc/kafka-logo.png)](https://kafka.apache.org/)
+
+```
+[![Kafka](https://zdnet2.cbsistatic.com/hub/i/r/2018/07/13/93218cd5-cfd9-4b10-bd28-1cc71a7275bc/resize/370xauto/996ca4ee0ff595281053298f3fe74ccc/kafka-logo.png)](https://kafka.apache.org/)
+``` 
+
+
 ###### Heroku 
 
 [![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)

@@ -232,6 +232,14 @@ Example:
 [![GraphQL](https://github.com/MarioTerron/logo-images/blob/master/logos/graphql.png)](http://graphql.org/)
 ```
 
+###### Prisma
+
+[![Prisma](https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67)](https://www.prisma.io/)
+
+```
+[![Prisma](https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67)](https://www.prisma.io/)
+``` 
+
 ###### Relay
 
 [![Relay](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rsz_relay.png?raw=true)](https://facebook.github.io/relay/)

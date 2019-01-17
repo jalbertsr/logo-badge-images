@@ -433,6 +433,12 @@ Example:
 [![Kafka](https://zdnet2.cbsistatic.com/hub/i/r/2018/07/13/93218cd5-cfd9-4b10-bd28-1cc71a7275bc/resize/370xauto/996ca4ee0ff595281053298f3fe74ccc/kafka-logo.png)](https://kafka.apache.org/)
 ``` 
 
+###### Elastic Search
+[![ElasticSearch](https://github.com/jalbertsr/logo-badge-images/blob/master/img/elastic-logo.png?raw=true)](https://www.elastic.co/)
+
+```
+[![ElasticSearch](https://github.com/jalbertsr/logo-badge-images/blob/master/img/elastic-logo.png?raw=true)](https://www.elastic.co/)
+```
 
 ###### Heroku 
 

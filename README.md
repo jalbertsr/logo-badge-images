@@ -122,9 +122,9 @@ Example:
 
 ###### Angular.js
 
-[![AngularJS](https://github.com/FransLopez/logo-images/blob/master/logos/angularjs.png)](https://angularjs.org/)
+[![AngularJS](https://redpanthers.co/wp-content/uploads/2017/12/angularjs.png)](https://angularjs.org/)
 
-    [![AngularJS](https://github.com/FransLopez/logo-images/blob/master/logos/angularjs.png)](https://angularjs.org/)
+    [![AngularJS](https://redpanthers.co/wp-content/uploads/2017/12/angularjs.png)](https://angularjs.org/)
 
 ###### React
 

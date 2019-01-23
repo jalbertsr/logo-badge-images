@@ -170,6 +170,13 @@ Example:
 [![Ruby](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ruby.png?raw=true)](https://www.ruby-lang.org/en/)
 ```
 
+###### Golang
+[![Golang](https://tutorialedge.net/images/golang.png)](https://golang.org/)
+
+```
+[![Golang](https://tutorialedge.net/images/golang.png)](https://golang.org/)
+```
+
 ###### Elixir
 
 [![Elixir](https://github.com/jalbertsr/logo-badge-images/blob/master/img/Official_Elixir_logo.png?raw=true)](https://elixir-lang.org/)

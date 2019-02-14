@@ -97,6 +97,13 @@ Example:
 [![Bower](https://github.com/FransLopez/logo-images/blob/master/logos/bower.png)](https://bower.io/)
 
     [![Bower](https://github.com/FransLopez/logo-images/blob/master/logos/bower.png)](https://bower.io/)
+    
+###### Yeoman
+
+[![Yeoman](https://github.com/jalbertsr/logo-badge-images/blob/master/img/yeoman-tutorial.png?raw=true)](https://yeoman.io/)
+```
+[![Yeoman](https://github.com/jalbertsr/logo-badge-images/blob/master/img/yeoman-tutorial.png?raw=true)](https://yeoman.io/)
+```
 
 ###### NPM
 

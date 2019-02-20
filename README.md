@@ -12,15 +12,11 @@ Example:
 
 ---
 
-###### HTML5 - CSS3 -JS 
-[![HTML5, CSS3 and JS](https://github.com/FransLopez/logo-images/blob/master/logos/html5-css3-js.png)](https://www.w3.org/)
-
-    [![HTML5,CSS3 and JS](https://github.com/FransLopez/logo-images/blob/master/logos/html5-css3-js.png)](http://www.w3.org/)  
 
 ###### JS
-[![JavaScript](https://github.com/FransLopez/logo-images/blob/master/logos/js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-    [![JavaScript](https://github.com/FransLopez/logo-images/blob/master/logos/js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    [![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ###### jQuery
 
